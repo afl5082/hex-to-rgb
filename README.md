@@ -1,4 +1,4 @@
-# hex_rgb.py
+# Two Hex Inputs to Mean RBG, to Hex
 
 (4) To give us a sense of your computer science experience, please complete the following task. Use either Python or PHP for your answer.
 
